@@ -23,6 +23,8 @@ Create JAR file that can resolve credentials
         9. Content of above file should look like this
             disco_user.windows.pswd=?WDV;@6MjVbXytM2WiOu(dEFqZ-hhwLD
             disco_user.windows.user=.\\Administrator
+	    mydev.basic_auth.user=adminanil
+	    mydev.basic_auth.pswd=MyAdminP@55word
             double \\ is used above to escape \ 
 
 
