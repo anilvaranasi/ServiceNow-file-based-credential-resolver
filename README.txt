@@ -214,6 +214,8 @@ Create a properties file with below content
 
 disco_user.windows.pswd=?WDV;@6MjVbXytM2WiOu(dEFqZ-hhwLD
 disco_user.windows.user=.\\Administrator
+mydev.basic_auth.user=adminanil
+mydev.basic_auth.pswd=MyAdminP@55word
 
 C:\ServiceNow\API\Java>"C:\Program Files\Java\jdk-1.8\bin\jar.exe" cvf CredRes.jar ".\com\snc\discovery\CredentialResolver.class"
 added manifest
